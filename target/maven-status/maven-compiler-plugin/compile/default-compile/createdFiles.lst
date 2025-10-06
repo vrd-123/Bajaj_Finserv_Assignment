@@ -1,0 +1,8 @@
+com\bajaj\assignment\config\CandidateProperties.class
+com\bajaj\assignment\model\FinalQueryPayload.class
+com\bajaj\assignment\service\WebhookService.class
+com\bajaj\assignment\runner\StartupRunner.class
+com\bajaj\assignment\http\HttpClientConfig.class
+com\bajaj\assignment\model\WebhookRequest.class
+com\bajaj\assignment\model\WebhookResponse.class
+com\bajaj\assignment\BajajApplication.class
